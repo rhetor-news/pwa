@@ -1,6 +1,7 @@
 # rhetor-news-app
 Map the GitHub project to a local computer.
 ## Project setup
+Install Node.js packages and dependancies
 ```
 npm install
 ```
